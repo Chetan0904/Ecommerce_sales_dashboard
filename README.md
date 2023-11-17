@@ -1,0 +1,16 @@
+# Ecommerce_sales_dashboard
+Fully dynamic and interactive ecommerce dashboard operated with slicers and filters
+
+📌 Project title: "Ecommerce sales dashboard"
+
+🛠 Tools used:
+🔹 POWER BI- Used for creating visualizations.
+🔹 Microsoft Excel- Used for data cleaning.
+
+🔍 Insights:
+
+1. Created a KPI banner showing YTD Sales, YTD profit, YTD quantity sold, YTD profit margin.
+2. Found year on year growth for each KPI and showed a YTD sparkline for each measure in the KPI to understand the monthly trend for each fact.
+3. Found YTD sales, PYTD Sales, YOY sales growth for different customer category and added a trend line for each category.
+4. Also Found YTD sales performance by each state.
+5. Showed top and bottom five products for sales, YTD sales by region to know best and worst performing regions all over the country and YTD sales by shipping type to get the best shipping type percentage.
