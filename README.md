@@ -15,3 +15,5 @@ Fully dynamic and interactive ecommerce dashboard operated with slicers and filt
 4. Also Found YTD sales performance by each state.
 5. Showed top and bottom five products for sales, YTD sales by region to know best and worst performing regions all over the country and YTD sales by shipping type to get the best shipping type percentage.
 ![Screenshot 2023-11-17 121853](https://github.com/Chetan0904/Ecommerce_sales_dashboard/assets/137276849/7fb4d968-ce88-4ca9-be80-33488be9d922)
+![Screenshot 2023-11-17 121912](https://github.com/Chetan0904/Ecommerce_sales_dashboard/assets/137276849/12fc950b-26ea-41e9-97d3-3c630ae97bf6)
+![Screenshot 2023-11-17 121932](https://github.com/Chetan0904/Ecommerce_sales_dashboard/assets/137276849/68b3e491-c783-47a9-a515-a14a34291a75)
